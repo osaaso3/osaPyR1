@@ -1,4 +1,4 @@
-#first model
+#first model 2
 from python_actr import *
 
 class myEnv(Model):
